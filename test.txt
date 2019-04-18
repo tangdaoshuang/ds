@@ -1,0 +1,8 @@
+<xml><ToUserName><![CDATA[gh_2111d600572b]]></ToUserName>
+<FromUserName><![CDATA[ouEg_s3FFydtOcwNVenGgY-IK0xw]]></FromUserName>
+<CreateTime>1555571392</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>771401654389407744</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>

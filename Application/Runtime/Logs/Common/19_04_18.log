@@ -1,0 +1,120 @@
+[ 2019-04-18T09:34:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:Favicon
+
+[ 2019-04-18T10:26:28+08:00 ] 192.168.0.183 /webnoauth/model.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 无法加载模块:Webnoauth
+
+[ 2019-04-18T10:26:28+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:28+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:28+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:28+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:30+08:00 ] 192.168.0.183 /webnoauth/model.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:Webnoauth
+
+[ 2019-04-18T10:26:30+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:30+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:30+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T10:26:30+08:00 ] 192.168.0.183 /router/get_rand_key.cgi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Router
+
+[ 2019-04-18T15:37:27+08:00 ] 127.0.0.1 /index.php/authorization/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+ERR: 无法加载模块:Authorization
+
+[ 2019-04-18T15:38:42+08:00 ] 127.0.0.1 /index.php/authorization/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Authorization
+
+[ 2019-04-18T15:40:55+08:00 ] 127.0.0.1 /index.php/authorization/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+ERR: 无法加载模块:Authorization
+
+[ 2019-04-18T15:41:08+08:00 ] 127.0.0.1 /index.php/Auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Auth
+
+[ 2019-04-18T15:42:51+08:00 ] 127.0.0.1 /index.php/Auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Auth
+
+[ 2019-04-18T15:42:51+08:00 ] 127.0.0.1 /index.php/Auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+ERR: 无法加载模块:Auth
+
+[ 2019-04-18T15:42:52+08:00 ] 127.0.0.1 /index.php/Auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:Auth
+
+[ 2019-04-18T15:42:52+08:00 ] 127.0.0.1 /index.php/Auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Auth
+
+[ 2019-04-18T15:42:57+08:00 ] 127.0.0.1 /index.php/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+ERR: 无法加载模块:Auth
+

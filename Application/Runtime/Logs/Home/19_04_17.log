@@ -1,0 +1,1550 @@
+[ 2019-04-17T14:16:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001698s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.027568s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.027626s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002389s ]
+
+[ 2019-04-17T14:20:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000068s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2019-04-17T14:30:18+08:00 ] 127.0.0.1 /index.php/Home/Index/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001676s ]
+
+[ 2019-04-17T14:30:21+08:00 ] 127.0.0.1 /index.php/Home/index/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001210s ]
+
+[ 2019-04-17T14:42:11+08:00 ] 127.0.0.1 /index.php/Home/index/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001827s ]
+
+[ 2019-04-17T14:42:33+08:00 ] 127.0.0.1 /index.php/Home/index/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+
+[ 2019-04-17T14:42:51+08:00 ] 127.0.0.1 /index.php/Home/index/aaa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+
+[ 2019-04-17T14:46:28+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001716s ]
+
+[ 2019-04-17T14:46:45+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+
+[ 2019-04-17T14:46:47+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+
+[ 2019-04-17T14:55:54+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003072s ]
+ERR: 非法操作:wx
+
+[ 2019-04-17T14:58:00+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'signature' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'timestamp' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [2] Illegal string offset 'nonce' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: nonce F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Use of undefined constant signature - assumed 'signature' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001770s ]
+
+[ 2019-04-17T14:58:10+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'signature' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'timestamp' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [2] Illegal string offset 'nonce' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: nonce F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Use of undefined constant signature - assumed 'signature' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001213s ]
+
+[ 2019-04-17T14:58:38+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=9265b0f60b88f8fbd0763b890c6872ebaf38142b&echostr=5902009657878118135&timestamp=1555484321&nonce=1041069801
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] Illegal string offset 'signature' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'timestamp' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Use of undefined constant _GET - assumed '_GET' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [2] Illegal string offset 'nonce' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: nonce F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Use of undefined constant signature - assumed 'signature' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 43 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001195s ]
+
+[ 2019-04-17T14:58:58+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3c3698d2ab98eb1d2eb8bad011f179b0dbc3d4eb&echostr=3958080590392512189&timestamp=1555484341&nonce=1618325725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001580s ]
+
+[ 2019-04-17T15:01:10+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3f2fa595bb93312885ca6b0ac43ce4e3da1b9511&echostr=9162000224258875257&timestamp=1555484472&nonce=1015698068
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+ERR: syntax error, unexpected '$ip' (T_VARIABLE)
+
+[ 2019-04-17T15:01:25+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+ERR: syntax error, unexpected '$ip' (T_VARIABLE)
+
+[ 2019-04-17T15:01:50+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2019-04-17T15:01:54+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=47aee5ea5f09265a107fd93417e663e7f572954c&echostr=20327438080794487&timestamp=1555484517&nonce=1972694057
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002079s ]
+
+[ 2019-04-17T15:02:04+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001239s ]
+
+[ 2019-04-17T15:02:46+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=76d20e34708def2076ad31e6805c5da49b190a93&echostr=5139475399746514911&timestamp=1555484569&nonce=2134732524
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2019-04-17T15:02:53+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001258s ]
+
+[ 2019-04-17T15:05:58+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=030707a87209079fa1c6438158d7ecc493f30734&echostr=4659425088859263999&timestamp=1555484761&nonce=690272212
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003085s ]
+
+[ 2019-04-17T15:09:19+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001587s ]
+
+[ 2019-04-17T15:09:31+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3ccac8caf2928039bc95cc7d1440d3dc8f92c896&echostr=5957602867895334399&timestamp=1555484974&nonce=1104433482
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2019-04-17T15:13:27+08:00 ] 127.0.0.1 /index.php/Home/index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001831s ]
+NOTIC: [8] Trying to get property 'MsgType' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003525s ]
+
+[ 2019-04-17T15:14:36+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=07280a06e2d4cd6f91c2688f9d201a94db81d80c&timestamp=1555485279&nonce=823188233&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2019-04-17T15:19:36+08:00 ] 127.0.0.1 /index.php/Home/index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001934s ]
+NOTIC: [8] Trying to get property 'MsgType' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001657s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001703s ]
+
+[ 2019-04-17T15:19:53+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=c3ca0fe7daad6f72d42d4770f89dfdb964822af9&timestamp=1555485596&nonce=1494380833&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002402s ]
+
+[ 2019-04-17T15:22:09+08:00 ] 127.0.0.1 /index.php/Home/index/wxreponseMsg?signature=6b3ea1fb627226bd0c305433876f380a052151ca&echostr=7664075082074415021&timestamp=1555485732&nonce=477505174
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+ERR: 非法操作:wxreponseMsg
+
+[ 2019-04-17T15:25:49+08:00 ] 127.0.0.1 /index.php/Home/index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001686s ]
+ERR: syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+
+[ 2019-04-17T15:26:03+08:00 ] 127.0.0.1 /index.php/Home/index/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Trying to get property 'MsgType' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002060s ]
+
+[ 2019-04-17T15:26:14+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=8f6c7e508a5a5912ffb914d903cee9bebf0dda59&timestamp=1555485977&nonce=1229035783&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001636s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: _REQUEST_METHOD F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001288s ]
+
+[ 2019-04-17T15:26:20+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=1c13597079a71c7f5d645cd0673b567ed79be1cf&timestamp=1555485983&nonce=1080782310&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001735s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: _REQUEST_METHOD F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001885s ]
+
+[ 2019-04-17T15:30:03+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=941ae99ca71e19bcf493cb3e9a124eca948742b9&timestamp=1555486205&nonce=13824266&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006783s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: his F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+ERR: Call to a member function reponseMsg() on null
+
+[ 2019-04-17T15:30:09+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=4e4163e5077357353f57e5eec1fa92db545a79ca&timestamp=1555486211&nonce=2059678642&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: his F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+ERR: Call to a member function reponseMsg() on null
+
+[ 2019-04-17T15:31:04+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=d718ec8023efc244c2ce2a2e457282b64ec1c9b5&timestamp=1555486267&nonce=14491191&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: his F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+ERR: Call to a member function reponseMsg() on null
+
+[ 2019-04-17T15:31:10+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=fe0dea8ce049f9c004613f350cabe815ec775160&timestamp=1555486273&nonce=840725824&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined variable: his F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+ERR: Call to a member function reponseMsg() on null
+
+[ 2019-04-17T15:31:57+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=f32ed6090777b5f9de545e59675db6827b49b5f3&timestamp=1555486320&nonce=385484379&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001742s ]
+
+[ 2019-04-17T15:32:01+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=216252625295e72f97b87c92cf83333efc151787&timestamp=1555486324&nonce=1646403875&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001269s ]
+
+[ 2019-04-17T15:34:39+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=0f7399acc76e686324a5564607489b9c8547c63c&timestamp=1555486482&nonce=1500942277&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001727s ]
+
+[ 2019-04-17T15:34:44+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=611807cc08b183a34418aba0ed758dd6b63b670a&timestamp=1555486487&nonce=712776298&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001267s ]
+
+[ 2019-04-17T15:47:06+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+
+[ 2019-04-17T15:51:13+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003631s ]
+
+[ 2019-04-17T15:51:41+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+
+[ 2019-04-17T15:51:43+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+
+[ 2019-04-17T15:55:36+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+
+[ 2019-04-17T16:01:08+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+
+[ 2019-04-17T16:01:25+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2019-04-17T16:04:33+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2019-04-17T16:05:54+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2019-04-17T16:06:01+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [8] Undefined variable: data F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2019-04-17T16:06:14+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2019-04-17T16:06:34+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002640s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2019-04-17T16:06:56+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 70 行.
+
+[ 2019-04-17T16:07:15+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+
+[ 2019-04-17T16:07:24+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [8] Array to string conversion F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 82 行.
+
+[ 2019-04-17T16:08:03+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 82 行.
+
+[ 2019-04-17T16:09:27+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+
+[ 2019-04-17T16:10:21+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+
+[ 2019-04-17T16:10:33+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=51ce7f0600dc323874c2858dffa886ed41019c25&timestamp=1555488636&nonce=1577533637&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001686s ]
+
+[ 2019-04-17T16:10:41+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=92d91078997bfbc4ef5455080800071e31484bcb&timestamp=1555488645&nonce=1777855783&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001361s ]
+
+[ 2019-04-17T16:10:47+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002323s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+
+[ 2019-04-17T16:10:48+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+NOTIC: [8] Undefined variable: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 69 行.
+
+[ 2019-04-17T16:11:02+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+
+[ 2019-04-17T16:11:02+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3dc22f9a17ecc357fa2397f5c2fc208d780ff1e5&timestamp=1555488665&nonce=1995525133&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001803s ]
+
+[ 2019-04-17T16:27:19+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=20ea53821c90f884c81d8e9fe350b37be8f0476d&echostr=1340972891172171769&timestamp=1555489641&nonce=30622133
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+NOTIC: [8] Trying to get property 'Event' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 39 行.
+
+[ 2019-04-17T16:27:30+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=ed004957d5e391887f35023a935ad90d36e09e97&timestamp=1555489653&nonce=760803619&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 57 行.
+
+[ 2019-04-17T16:27:36+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=729cf4e73773061c035a3066155072d516680edd&timestamp=1555489659&nonce=1452188478&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002004s ]
+
+[ 2019-04-17T16:39:36+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+
+[ 2019-04-17T16:41:55+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001860s ]
+
+[ 2019-04-17T16:41:56+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+
+[ 2019-04-17T16:43:20+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+
+[ 2019-04-17T16:43:27+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+
+[ 2019-04-17T16:43:28+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+
+[ 2019-04-17T16:44:12+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+
+[ 2019-04-17T16:44:22+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+
+[ 2019-04-17T16:44:23+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+
+[ 2019-04-17T16:44:24+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+
+[ 2019-04-17T16:44:37+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+
+[ 2019-04-17T16:44:54+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+
+[ 2019-04-17T16:45:44+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+
+[ 2019-04-17T16:45:45+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+
+[ 2019-04-17T16:49:12+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+
+[ 2019-04-17T16:49:45+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+
+[ 2019-04-17T16:49:46+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+
+[ 2019-04-17T16:49:52+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+
+[ 2019-04-17T16:49:58+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+
+[ 2019-04-17T16:50:28+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+
+[ 2019-04-17T16:50:29+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+
+[ 2019-04-17T16:53:56+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001689s ]
+
+[ 2019-04-17T17:13:32+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+
+[ 2019-04-17T17:14:03+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002145s ]
+
+[ 2019-04-17T17:14:32+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: syntax error, unexpected ''https://api.weixin.qq.com/cgi' (T_ENCAPSED_AND_WHITESPACE)
+
+[ 2019-04-17T17:14:54+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+
+[ 2019-04-17T17:15:15+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003174s ]
+
+[ 2019-04-17T17:24:32+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+ERR: Too few arguments to function Home\Controller\IndexController::httpPost(), 1 passed in F:\xamp\www\Application\Home\Controller\IndexController.class.php on line 32 and exactly 2 expected
+
+[ 2019-04-17T17:25:01+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+
+[ 2019-04-17T17:25:39+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+ERR: Call to undefined function trintf()
+
+[ 2019-04-17T17:26:13+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+
+[ 2019-04-17T17:26:37+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+
+[ 2019-04-17T17:26:50+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+
+[ 2019-04-17T17:28:30+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002963s ]
+
+[ 2019-04-17T17:28:32+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001260s ]
+
+[ 2019-04-17T17:28:44+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001904s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2019-04-17T17:29:46+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001962s ]
+
+[ 2019-04-17T17:29:47+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001343s ]
+
+[ 2019-04-17T17:29:48+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2019-04-17T17:32:23+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001832s ]
+
+[ 2019-04-17T17:32:24+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001385s ]
+
+[ 2019-04-17T17:32:25+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001859s ]
+
+[ 2019-04-17T17:32:51+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008095s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001379s ]
+
+[ 2019-04-17T17:32:52+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003739s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001533s ]
+
+[ 2019-04-17T17:32:53+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001659s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2019-04-17T17:33:18+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001217s ]
+
+[ 2019-04-17T17:33:19+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2019-04-17T17:33:34+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001349s ]
+
+[ 2019-04-17T17:33:35+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001489s ]
+
+[ 2019-04-17T17:33:36+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2019-04-17T17:33:45+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2019-04-17T17:33:46+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2019-04-17T17:33:55+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001642s ]
+
+[ 2019-04-17T17:44:14+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=7cd55911c05b7c7e8ae0daaf3ec56c05eccacbd0&timestamp=1555494257&nonce=5638623&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 63 行.
+
+[ 2019-04-17T17:44:22+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3b73035b8a64d6dab97be723d5eccbf0aa4743f8&timestamp=1555494266&nonce=1415852363&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+
+[ 2019-04-17T17:45:10+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=b10e15f81e7ca4bb4813de9162734a198bf043a5&timestamp=1555494313&nonce=1338937784&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 63 行.
+
+[ 2019-04-17T17:45:16+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=c490cb8b7f8db033a7cd8a59f3a4850aab40eb4f&timestamp=1555494320&nonce=75403041&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001697s ]
+
+[ 2019-04-17T17:45:53+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=fd1f6af7d8b262b77ad5553b98a747d3a6ade1ba&timestamp=1555494356&nonce=275799058&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 76 行.
+
+[ 2019-04-17T17:46:01+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3047be7d7ee6209e31bbc8c0a0f2413b2abc37da&timestamp=1555494364&nonce=1382165372&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001529s ]
+
+[ 2019-04-17T17:46:31+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=84d1d182f0d8de3cd926812315f87b120da48750&timestamp=1555494395&nonce=1634496902&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 72 行.
+
+[ 2019-04-17T17:46:37+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=1a2f59cf9da843465cc103dae2c1db384d520e51&timestamp=1555494400&nonce=1009780571&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2019-04-17T17:46:53+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=f2253f360bd6978d341ac9d61c5b75d4657631b5&timestamp=1555494416&nonce=1908023374&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 76 行.
+
+[ 2019-04-17T17:46:58+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=6c3e2f75ebd2a962ff6e524c1c2317af52c6670a&timestamp=1555494421&nonce=713187069&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2019-04-17T17:56:58+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=ce95e7fd46ce7e16ce7b016fef23f1d5379eb726&timestamp=1555495021&nonce=429265438&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 74 行.
+
+[ 2019-04-17T17:57:03+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=73beccf77b3ca73d63da4febe269a8abd0932851&timestamp=1555495026&nonce=1629562384&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001816s ]
+ERR: Too few arguments to function Home\Controller\IndexController::_inserUser(), 0 passed in F:\xamp\www\Application\Home\Controller\IndexController.class.php on line 70 and exactly 1 expected
+
+[ 2019-04-17T17:57:44+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'va(`openId`) value(1111)' at line 1
+ [ SQL语句 ] : INSERT INTO wx_user va(`openId`) value(1111)
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'va(`openId`) value(1111)' at line 1
+ [ SQL语句 ] : INSERT INTO wx_user va(`openId`) value(1111)
+
+[ 2019-04-17T17:58:06+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: INSERT INTO wx_user(`openId`) values(1111) [ RunTime:0.0289s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+
+[ 2019-04-17T18:03:23+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001629s ]
+SQL: INSERT INTO wx_user(`openId`) values(1111) [ RunTime:0.0295s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+
+[ 2019-04-17T18:03:55+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+SQL: INSERT INTO wx_user(`openId`) values(1111) [ RunTime:0.0444s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+
+[ 2019-04-17T18:04:33+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+SQL: INSERT INTO wx_user(`openId`) values(1111) [ RunTime:0.0432s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+
+[ 2019-04-17T18:05:54+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001851s ]
+SQL: INSERT INTO wx_user(`openId`) values(1111) [ RunTime:0.0451s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+
+[ 2019-04-17T18:08:58+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002162s ]
+SQL: INSERT INTO wx_user(`openId`) values(1111) [ RunTime:0.0415s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values(1111)
+
+[ 2019-04-17T18:11:17+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+ERR: 1146:Table 'wx.w_x__u_s_e_r' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `w_x__u_s_e_r`
+ERR: 1146:Table 'wx.w_x__u_s_e_r' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `w_x__u_s_e_r`
+
+[ 2019-04-17T18:11:34+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0068s ]
+SQL: INSERT INTO `wx_user` (`openId`) VALUES ('1111') [ RunTime:0.0499s ]
+NOTIC: [8] Undefined variable: res F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 98 行.
+
+[ 2019-04-17T18:12:18+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0062s ]
+SQL: INSERT INTO wx_user(`openId`) values('1111') [ RunTime:0.0434s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values('1111')
+ERR: :
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`) values('1111')
+
+[ 2019-04-17T18:13:21+08:00 ] 127.0.0.1 /index.php/Home/index/getAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001691s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0063s ]
+SQL: INSERT INTO wx_user(`openId`) values('1111') [ RunTime:0.0500s ]
+
+[ 2019-04-17T18:14:32+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=d0bba278baef1316e6a83db9dd0db1b2080dc69f&timestamp=1555496075&nonce=1819006287&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 75 行.
+
+[ 2019-04-17T18:14:38+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=0913faf701d77950c025489af18f2fc72ada9482&timestamp=1555496081&nonce=893602140&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: INSERT INTO wx_user(`openId`) values('gh_2111d600572b') [ RunTime:0.0407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002084s ]
+
+[ 2019-04-17T18:15:28+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=a1ecc6b5fc442b2936940ea929d374c816da99e4&timestamp=1555496132&nonce=24721973&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 75 行.
+
+[ 2019-04-17T18:15:33+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=f53dbaf398233541b422efe620c1bfe270c46cf4&timestamp=1555496136&nonce=435446493&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+SQL: INSERT INTO wx_user(`openId`) values('gh_2111d600572b') [ RunTime:0.0350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001366s ]
+

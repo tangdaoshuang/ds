@@ -1,0 +1,2052 @@
+[ 2019-04-18T09:34:12+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+NOTIC: [8] Trying to get property 'Event' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 75 行.
+
+[ 2019-04-18T09:34:16+08:00 ] 127.0.0.1 /index.php/Home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+ERR: Call to a member function display() on null
+
+[ 2019-04-18T09:37:10+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002824s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 45 行.
+NOTIC: [8] Trying to get property 'Event' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002257s ]
+
+[ 2019-04-18T09:37:18+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=61691945590607b60eaddb7eff36176c0ffefc68&echostr=6322879275632416763&timestamp=1555551441&nonce=335226008
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001273s ]
+
+[ 2019-04-18T10:01:28+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=29822e43906660d1d79beb079345fa328697df7d&timestamp=1555552890&nonce=1573931843&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 39 行.
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.1204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2019-04-18T10:01:31+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=c20000a56c97ad6c40b004a84bd060078d0cf35a&timestamp=1555552894&nonce=691866376&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001402s ]
+
+[ 2019-04-18T10:01:48+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Trying to get property 'Event' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001304s ]
+
+[ 2019-04-18T10:13:26+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=1a03156e5e5324e01543f435365c01af45ae77a4&timestamp=1555553609&nonce=1586342374&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001801s ]
+
+[ 2019-04-18T10:13:31+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=8a02021f0c468c27f1a17354e857329b0e3e2856&timestamp=1555553614&nonce=1037868905&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 39 行.
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001469s ]
+
+[ 2019-04-18T10:13:55+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+NOTIC: [8] Undefined index: echostr F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Trying to get property 'Event' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2019-04-18T10:26:28+08:00 ] 192.168.0.183 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004009s ]
+ERR: Multiple access type modifiers are not allowed
+
+[ 2019-04-18T10:26:30+08:00 ] 192.168.0.183 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001819s ]
+ERR: Multiple access type modifiers are not allowed
+
+[ 2019-04-18T10:31:30+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 39 行.
+
+[ 2019-04-18T10:31:53+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+
+[ 2019-04-18T10:32:18+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012786s ]
+
+[ 2019-04-18T10:32:32+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+
+[ 2019-04-18T10:32:56+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 39 行.
+
+[ 2019-04-18T10:33:31+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 37 行.
+
+[ 2019-04-18T10:33:57+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 37 行.
+
+[ 2019-04-18T10:34:06+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [2] Illegal string offset 'access_token' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 37 行.
+
+[ 2019-04-18T10:41:59+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+
+[ 2019-04-18T10:42:32+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=54f8dd980c192fefafbfbd98cf153fd5ac06d1d5&timestamp=1555555355&nonce=716505401&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020102s ]
+
+[ 2019-04-18T10:42:37+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=2e9749e69ac0c8b0290d9c3d0dc492af4b9fa678&timestamp=1555555360&nonce=1469454460&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2019-04-18T10:43:30+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001250s ]
+
+[ 2019-04-18T10:43:59+08:00 ] 127.0.0.1 /index.php/Home/index/wx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+NOTIC: [8] Trying to get property 'Event' of non-object F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 58 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001889s ]
+
+[ 2019-04-18T10:44:43+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=9df533105224be9b3883fd4a78347fcf5578cf2b&timestamp=1555555486&nonce=50337718&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004647s ]
+
+[ 2019-04-18T10:44:49+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=77584ca861284e75c3585b477d8bd7b88b7b7098&timestamp=1555555492&nonce=397747902&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002516s ]
+
+[ 2019-04-18T10:45:33+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=e7026f5b124f404b6513ac6e2f4cc8837b8eed33&echostr=5312289314463806963&timestamp=1555555537&nonce=1837674132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+
+[ 2019-04-18T10:46:49+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=27a8feceb07afd6ed57d3e325e97c7db28a1ef5c&timestamp=1555555613&nonce=849735656&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002915s ]
+
+[ 2019-04-18T10:46:55+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=0c1ba09981f19e795ab19eace70ed54b12c4a1c2&timestamp=1555555618&nonce=1183831712&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001269s ]
+
+[ 2019-04-18T10:48:30+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=f44bc50af885e078ca6a066d5a7d3f3223dc2f82&timestamp=1555555713&nonce=1754856223&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001176s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2019-04-18T10:48:35+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=d033d763889861c6b888888fda3c035f6eb2c954&timestamp=1555555718&nonce=2057417253&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2019-04-18T11:03:58+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=2b9ea95eaa2a5cab6197f541f92a4bc37da16302&timestamp=1555556642&nonce=1755752937&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001707s ]
+
+[ 2019-04-18T11:04:03+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=8e8311106ce40fbc82e436396cb6a1a52ce015d4&timestamp=1555556647&nonce=1064867215&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2019-04-18T11:04:58+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=92841562d6fcb1e0e1244dba3883278a944bb866&timestamp=1555556701&nonce=1721747601&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+ERR: syntax error, unexpected '"', expecting ')'
+
+[ 2019-04-18T11:05:03+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=52e4e6c695c8d7ef87dbb6d0767ae334283508ab&timestamp=1555556706&nonce=1423178441&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+ERR: syntax error, unexpected '"', expecting ')'
+
+[ 2019-04-18T11:05:23+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=de9568221036fef44f16716077e07a201bdb3e30&timestamp=1555556727&nonce=274001085&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001199s ]
+
+[ 2019-04-18T11:05:28+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=c34e699bfee496f504e3c885b35713a94784e93c&timestamp=1555556731&nonce=609751785&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001187s ]
+
+[ 2019-04-18T11:06:06+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=56af8f230bde7ce8663bab43574ad665d8228b91&timestamp=1555556769&nonce=1217440844&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001769s ]
+
+[ 2019-04-18T11:06:10+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=f2606bafef6129bd1205883aac0423a84d50cee6&timestamp=1555556774&nonce=1660295059&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001234s ]
+
+[ 2019-04-18T11:07:28+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=81dcc315ccb7fa91292f638615934084802f74d8&timestamp=1555556851&nonce=2045796148&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001215s ]
+
+[ 2019-04-18T11:07:33+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=4b9674c9cce6bd80139fa120ce25f41f44f71b8f&timestamp=1555556856&nonce=191861578&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001476s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001831s ]
+
+[ 2019-04-18T11:08:07+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=e36be3fbf704dcbdc3a1b890a82621c1ff019d21&timestamp=1555556891&nonce=1360814034&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001708s ]
+
+[ 2019-04-18T11:08:13+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3cadf345f239d627e8a301bc3e921093615da98c&timestamp=1555556896&nonce=19851337&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.1166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001823s ]
+
+[ 2019-04-18T11:08:39+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=e73bcf46125efd6470a739ac37f156afafb95ee8&timestamp=1555556922&nonce=1498395641&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001278s ]
+
+[ 2019-04-18T11:08:43+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=1190e3fe1c4be768cfbf822c7ea87fa893f853bf&timestamp=1555556926&nonce=963007788&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2019-04-18T11:09:51+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=0a7e60e52a9ee9980368773612bd1d2c99dfb459&timestamp=1555556994&nonce=460053057&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001277s ]
+
+[ 2019-04-18T11:09:55+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=a18c59208cc7ad4cd9443af367caf7fc23cbf201&timestamp=1555556998&nonce=950504122&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001292s ]
+
+[ 2019-04-18T11:10:50+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=053cb5aacbe5557708aa041a49cb6f2f0f3588fd&timestamp=1555557053&nonce=1029129267&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001712s ]
+
+[ 2019-04-18T11:10:56+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=7912c01eec73c14ed6440d38d8d9deeec33f363e&timestamp=1555557059&nonce=1985617162&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001181s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2019-04-18T11:13:42+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=8f9e6bada00377324c41634c93048ee8cbe40c39&timestamp=1555557226&nonce=9945076&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001629s ]
+
+[ 2019-04-18T11:13:48+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=d2ce8d68760925c1c46529ac172f31acd48accf9&timestamp=1555557231&nonce=20911687&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003420s ]
+
+[ 2019-04-18T11:15:44+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=a054a1ac1e47765076072a6d966cdb42096404c0&timestamp=1555557347&nonce=1170162132&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001910s ]
+
+[ 2019-04-18T11:15:56+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=1084038f62764b75070ae3e6d74b2532b895e28d&timestamp=1555557359&nonce=210019217&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008305s ]
+
+[ 2019-04-18T11:16:17+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=b67dff1f31aaaa98751938050dfe6f4e1579ddcb&timestamp=1555557381&nonce=1563832494&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001253s ]
+
+[ 2019-04-18T11:16:23+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=4e195f01aeee850a7bde88f2f79ac76cd30f73b2&timestamp=1555557386&nonce=165832560&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001183s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2019-04-18T11:18:27+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=aba1efc5ebdde1aa2d7a3f113aaa24acb75dc7c7&timestamp=1555557510&nonce=2128790068&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001747s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2019-04-18T11:18:33+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=a48f17c5a2710ea416cdbc124d57e58d91499f05&timestamp=1555557516&nonce=1355671322&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+ERR: Too few arguments to function Home\Controller\IndexController::_httpPost(), 1 passed in F:\xamp\www\Application\Home\Controller\IndexController.class.php on line 102 and exactly 2 expected
+
+[ 2019-04-18T11:19:44+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=588ed4900ba80577bba130d5dcd3d59241e2d76e&timestamp=1555557587&nonce=1494126221&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001269s ]
+
+[ 2019-04-18T11:19:48+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=3b1d88c4bc3680da242d892ee30866202fd4389e&timestamp=1555557591&nonce=1612575692&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+ERR: Too few arguments to function Home\Controller\IndexController::_httpPost(), 1 passed in F:\xamp\www\Application\Home\Controller\IndexController.class.php on line 102 and exactly 2 expected
+
+[ 2019-04-18T11:21:09+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+ERR: Too few arguments to function Home\Controller\IndexController::_httpPost(), 1 passed in F:\xamp\www\Application\Home\Controller\IndexController.class.php on line 103 and exactly 2 expected
+
+[ 2019-04-18T11:21:57+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: INSERT INTO wx_user(`openId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw') [ RunTime:0.0326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2019-04-18T11:22:20+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+
+[ 2019-04-18T11:22:51+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+
+[ 2019-04-18T11:23:01+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+
+[ 2019-04-18T11:23:30+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+
+[ 2019-04-18T11:23:31+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+
+[ 2019-04-18T11:39:01+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001552s ]
+ERR: Think\Controller:_executeUserInfo方法不存在！
+
+[ 2019-04-18T11:39:27+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 109 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001700s ]
+
+[ 2019-04-18T11:39:59+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=0d2e254463f2bd37b0b494c81686a74466de78f1&timestamp=1555558803&nonce=100197231&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001137s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001187s ]
+
+[ 2019-04-18T11:40:04+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=1ee6946c54b30fc948ba6c6685cde52711783b84&timestamp=1555558807&nonce=1542669144&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 109 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 110 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'gh_2111d600572b'')' at line 1
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw',''gh_2111d600572b'')
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'gh_2111d600572b'')' at line 1
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw',''gh_2111d600572b'')
+
+[ 2019-04-18T11:42:31+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001618s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 111 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 112 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'gh_2111d600572b'')' at line 1
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw',''gh_2111d600572b'')
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'gh_2111d600572b'')' at line 1
+ [ SQL语句 ] : INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw',''gh_2111d600572b'')
+
+[ 2019-04-18T11:42:59+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 111 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 112 行.
+SQL: INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw','gh_2111d600572b') [ RunTime:0.0590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002210s ]
+
+[ 2019-04-18T11:43:33+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=cd58a065a8e5ab75539bf6a1ed8c6adb5f5c319e&timestamp=1555559016&nonce=531360949&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001180s ]
+
+[ 2019-04-18T11:43:38+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=b30b3c7d768fcb1322302c7645d92bb98e682ec8&timestamp=1555559021&nonce=866404010&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 111 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 112 行.
+SQL: INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw','gh_2111d600572b') [ RunTime:0.0384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002375s ]
+
+[ 2019-04-18T11:45:18+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=941b63a22ab964b7287259d991194cb0502f26d3&timestamp=1555559121&nonce=1697113520&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001853s ]
+
+[ 2019-04-18T11:45:41+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=d3bf685574c8f7182b2da2351b7186217aa006a5&timestamp=1555559142&nonce=606239419&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 115 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 116 行.
+SQL: INSERT INTO wx_user(`openId`,`wxId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw','gh_2111d600572b') [ RunTime:0.0416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001251s ]
+
+[ 2019-04-18T11:47:51+08:00 ] 127.0.0.1 /index.php/Home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 115 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 116 行.
+SQL: INSERT INTO wx_user(`openId`,`wxId`,`unionId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw','gh_2111d600572b','"') [ RunTime:0.0436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001698s ]
+
+[ 2019-04-18T11:50:35+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=7ccaa4e9a807ae949bf24b86024b45aac910e110&timestamp=1555559438&nonce=607904546&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001657s ]
+
+[ 2019-04-18T11:50:42+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=33e23c7ffea62d95fb58849bf5814829bce8256c&timestamp=1555559445&nonce=638747849&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [2] Illegal string offset 'unionid' F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 126 行.
+SQL: INSERT INTO wx_user(`openId`,`wxId`,`unionId`) values('ouEg_s3FFydtOcwNVenGgY-IK0xw','gh_2111d600572b','"') [ RunTime:0.0364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001241s ]
+
+[ 2019-04-18T12:08:07+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+ERR: 参数错误或者未定义:unionId
+
+[ 2019-04-18T12:08:35+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002226s ]
+
+[ 2019-04-18T12:08:45+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+NOTIC: [8] Undefined variable: smg F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 103 行.
+
+[ 2019-04-18T12:09:49+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+
+[ 2019-04-18T12:10:00+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+
+[ 2019-04-18T12:10:02+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+
+[ 2019-04-18T12:10:03+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+ERR: 1146:Table 'wx.msg' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `msg`
+
+[ 2019-04-18T12:24:26+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+ERR: Call to undefined function msg()
+
+[ 2019-04-18T12:24:36+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+ERR: Call to undefined function msgdata()
+
+[ 2019-04-18T12:25:08+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+ERR: Call to undefined function msgdata()
+
+[ 2019-04-18T12:25:10+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+ERR: Call to undefined function msgdata()
+
+[ 2019-04-18T12:25:11+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+ERR: Call to undefined function msgdata()
+
+[ 2019-04-18T12:26:28+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+
+[ 2019-04-18T12:26:37+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:27:13+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:27:14+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:27:15+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:27:39+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:28:01+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:28:47+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001487s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:28:48+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:28:48+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:29:35+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:29:36+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:29:37+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:29:39+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:29:40+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001657s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:29:40+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+ERR: Think\Controller:msgData方法不存在！
+
+[ 2019-04-18T12:31:01+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+
+[ 2019-04-18T12:31:16+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+ERR: Call to a member function assign() on null
+
+[ 2019-04-18T12:31:57+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2019-04-18T12:32:08+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+
+[ 2019-04-18T12:32:20+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+NOTIC: [8] Array to string conversion F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 106 行.
+
+[ 2019-04-18T12:34:52+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001834s ]
+
+[ 2019-04-18T12:34:59+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004014s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 110 行.
+
+[ 2019-04-18T12:35:00+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 110 行.
+
+[ 2019-04-18T12:35:13+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+
+[ 2019-04-18T12:35:26+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+
+[ 2019-04-18T12:35:38+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+
+[ 2019-04-18T13:57:56+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002011s ]
+ERR: Call to a member function parseTemplate() on null
+
+[ 2019-04-18T13:58:50+08:00 ] 127.0.0.1 /index.php/Home/index/getTemplate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002129s ]
+ERR: Call to a member function parseTemplate() on null
+
+[ 2019-04-18T13:58:58+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+
+[ 2019-04-18T13:59:08+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+
+[ 2019-04-18T13:59:18+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+
+[ 2019-04-18T14:20:54+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+
+[ 2019-04-18T14:22:49+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+
+[ 2019-04-18T14:23:40+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0225s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:23:50+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0068s ]
+ERR: Think\Model:query_arr方法不存在！
+
+[ 2019-04-18T14:24:04+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001646s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0064s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0006s ]
+ERR: Call to a member function rows() on array
+
+[ 2019-04-18T14:25:11+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0107s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0007s ]
+ERR: Call to a member function select() on array
+
+[ 2019-04-18T14:26:24+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `wx_user` WHERE `wxId` = 'gh_2111d600572b' AND `unionId` = 123123  [ RunTime:0.0008s ]
+
+[ 2019-04-18T14:26:35+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0073s ]
+ERR: Think\Model:select_one方法不存在！
+
+[ 2019-04-18T14:26:53+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0070s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:29:57+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001528s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0069s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 151 行.
+
+[ 2019-04-18T14:30:36+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0079s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:30:48+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0068s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:30:49+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0072s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:31:12+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0077s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 151 行.
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:31:19+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0076s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 151 行.
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:31:20+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0066s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 151 行.
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:31:26+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0066s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: openId F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:33:45+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0097s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0021s ]
+
+[ 2019-04-18T14:33:58+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0195s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:34:08+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/1231231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0067s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0014s ]
+
+[ 2019-04-18T14:34:12+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0067s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:34:15+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001377s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0082s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:34:50+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0105s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='0' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:35:29+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0073s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0006s ]
+
+[ 2019-04-18T14:35:30+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0070s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0007s ]
+
+[ 2019-04-18T14:35:31+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0072s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0009s ]
+
+[ 2019-04-18T14:35:33+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0067s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0006s ]
+
+[ 2019-04-18T14:35:43+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+
+[ 2019-04-18T14:35:58+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001496s ]
+
+[ 2019-04-18T14:39:00+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+
+[ 2019-04-18T14:39:06+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0068s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0007s ]
+NOTIC: [8] Undefined offset: 0 F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 153 行.
+
+[ 2019-04-18T14:39:14+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0072s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 152 行.
+
+[ 2019-04-18T14:40:12+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123%E6%9A%97%E5%AE%A4%E9%80%A2%E7%81%AF%E6%B0%B4%E7%94%B5%E8%B4%B9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0069s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123暗室逢灯水电费' limit 1 [ RunTime:0.0007s ]
+NOTIC: [8] Undefined offset: 0 F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 149 行.
+
+[ 2019-04-18T14:40:18+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0074s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0006s ]
+
+[ 2019-04-18T14:47:17+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001536s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0073s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0006s ]
+NOTIC: [2] Use of undefined constant ticket - assumed 'ticket' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 125 行.
+
+[ 2019-04-18T14:54:45+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001539s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0068s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0006s ]
+NOTIC: [2] Use of undefined constant ticket - assumed 'ticket' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 125 行.
+ERR: Think\Controller:httpPost方法不存在！
+
+[ 2019-04-18T14:54:57+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0083s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0006s ]
+NOTIC: [2] Use of undefined constant ticket - assumed 'ticket' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 125 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001761s ]
+
+[ 2019-04-18T14:54:57+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=c2bbd0282d151ce413f92b242ad123c8bbe00efc&timestamp=1555570501&nonce=1686468147&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001859s ]
+
+[ 2019-04-18T15:03:18+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001547s ]
+NOTIC: [8] Array to string conversion F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 108 行.
+NOTIC: [8] Undefined variable: Array F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 108 行.
+
+[ 2019-04-18T15:03:26+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 108 行.
+
+[ 2019-04-18T15:03:43+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001355s ]
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 108 行.
+
+[ 2019-04-18T15:03:52+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+
+[ 2019-04-18T15:04:27+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0074s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0221s ]
+NOTIC: [2] Use of undefined constant ticket - assumed 'ticket' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 134 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002588s ]
+
+[ 2019-04-18T15:04:27+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=37b0b4a61aa5a255f10edc5a89993afa51e77b2f&timestamp=1555571071&nonce=1809734483&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002722s ]
+
+[ 2019-04-18T15:05:15+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001305s ]
+
+[ 2019-04-18T15:05:34+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+NOTIC: [2] Use of undefined constant _POST - assumed '_POST' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 114 行.
+
+[ 2019-04-18T15:05:43+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+
+[ 2019-04-18T15:05:46+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+
+[ 2019-04-18T15:06:51+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001763s ]
+
+[ 2019-04-18T15:07:14+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+
+[ 2019-04-18T15:08:36+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.041366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+
+[ 2019-04-18T15:09:00+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+
+[ 2019-04-18T15:09:48+08:00 ] 127.0.0.1 /index.php/Home/index/setApiMsg/unionId/123123?data=%7B%22first%22:%22%5Cu60a8%5Cu7684%5Cu4f18%5Cu60e0%5Cu5238%5Cu5373%5Cu5c06%5Cu5230%5Cu671f%22,%22keyword1%22:%22%5Cu70b9%5Cu6ef4%5Cu751f%5Cu6d3b%5Cu516c%5Cu4f17%5Cu53f7%22,%22keyword2%22:%22%5Cu6d77%5Cu5929%5Cu76db%5Cu7b75%5Cu4f18%5Cu60e0%5Cu5238%22,%22remark%22:%22%5Cu8bf7%5Cu53ca%5Cu65f6%5Cu4f7f%5Cu7528%21%22%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `wx_user` [ RunTime:0.0070s ]
+SQL: select openId from wx_user where wxId ='gh_2111d600572b' and unionId='123123' limit 1 [ RunTime:0.0007s ]
+NOTIC: [2] Use of undefined constant ticket - assumed 'ticket' (this will throw an Error in a future version of PHP) F:\xamp\www\Application\Home\Controller\IndexController.class.php 第 138 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001751s ]
+
+[ 2019-04-18T15:09:48+08:00 ] 127.0.0.1 /index.php/Home/index/wx?signature=8255423cf9c36e5b1accb9b57ff3f4ffd8fedb34&timestamp=1555571392&nonce=20353602&openid=ouEg_s3FFydtOcwNVenGgY-IK0xw
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001726s ]
+
+[ 2019-04-18T15:43:07+08:00 ] 127.0.0.1 /index.php/home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+ERR: 无法加载控制器:Auth
+
+[ 2019-04-18T15:43:39+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+ERR: Call to a member function get() on null
+
+[ 2019-04-18T15:43:53+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+ERR: Call to a member function get() on null
+
+[ 2019-04-18T15:44:44+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+
+[ 2019-04-18T15:44:52+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011195s ]
+
+[ 2019-04-18T15:45:21+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001696s ]
+
+[ 2019-04-18T15:45:43+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+
+[ 2019-04-18T15:46:47+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+ERR: Undefined class constant 'accessToken'
+
+[ 2019-04-18T15:47:17+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+ERR: Call to a member function get() on null
+
+[ 2019-04-18T15:47:26+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+
+[ 2019-04-18T15:48:06+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+
+[ 2019-04-18T15:48:16+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+ERR: Call to a member function get() on null
+
+[ 2019-04-18T15:50:42+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+ERR: Undefined class constant 'accessToken'
+
+[ 2019-04-18T15:50:51+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+ERR: Call to a member function get() on null
+
+[ 2019-04-18T15:53:24+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001634s ]
+
+[ 2019-04-18T15:54:01+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+
+[ 2019-04-18T16:00:38+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001694s ]
+ERR: Think\Controller:component_detail方法不存在！
+
+[ 2019-04-18T16:00:49+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001782s ]
+
+[ 2019-04-18T16:01:05+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+
+[ 2019-04-18T16:04:43+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001789s ]
+
+[ 2019-04-18T16:04:45+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+
+[ 2019-04-18T16:05:06+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+
+[ 2019-04-18T16:07:40+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+
+[ 2019-04-18T16:07:45+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+
+[ 2019-04-18T16:07:48+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+
+[ 2019-04-18T16:07:56+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+
+[ 2019-04-18T16:07:59+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+
+[ 2019-04-18T16:08:01+08:00 ] 127.0.0.1 /index.php/Home/auth/get_pre_auth_code_again
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+
